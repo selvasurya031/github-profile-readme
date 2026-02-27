@@ -74,7 +74,7 @@ export function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  href="https://github.com/rahuldkjain/github-profile-readme-generator"
+                  href="https://github.com/selvasurya031/github-profile-readme-generator-main"
                   className="text-muted-foreground hover:text-primary transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -84,7 +84,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://github.com/rahuldkjain/github-profile-readme-generator/issues"
+                  href="https://github.com/selvasurya031/github-profile-readme-generator-main/issues"
                   className="text-muted-foreground hover:text-primary transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -121,7 +121,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://twitter.com/rahuldkjain"
+                  href="https://twhttpsitter.com/rahuldkjain"
                   className="text-muted-foreground hover:text-primary transition-colors"
                   target="_blank"
                   rel="noopener noreferrer"
